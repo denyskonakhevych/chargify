@@ -1,0 +1,3 @@
+com\chargify\logging\LogServiceAggregatorApplication.class
+com\chargify\logging\Notification.class
+com\chargify\logging\Consumer.class
